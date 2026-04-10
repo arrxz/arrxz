@@ -314,6 +314,4 @@ I regularly share knowledge through:
 
 *Last Updated: April 2026*
 
-![Visitors](https://visitorbadge.io/badges/kucingungu?color=purple)
-
 </div>
