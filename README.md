@@ -144,9 +144,9 @@ Enterprise-grade access control with persistent memory
 ## 📊 Project Statistics
 
 ```
-Total Projects:     5
-Active Projects:    8
-Archived:           7
+Total Projects:     4
+Active Projects:    3
+Archived:           15
 Languages:          C++ | Python | JavaScript
 Hardware Used:      20+ sensor types
 Success Rate:       82% (completed & functional)
