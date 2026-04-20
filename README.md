@@ -144,7 +144,7 @@ Enterprise-grade access control with persistent memory
 ## 📊 Project Statistics
 
 ```
-Total Projects:     15+
+Total Projects:     5
 Active Projects:    8
 Archived:           7
 Languages:          C++ | Python | JavaScript
