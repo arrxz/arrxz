@@ -99,21 +99,17 @@ Flexible, real-time control platform for home automation
 Optimized user interfaces for resource-constrained displays
 
 **Implemented Projects:**
-- **Tetris on LCD**: Full implementation with scoring, levels, and animations
-- **Snake Game**: Touch/button controlled gameplay
 - **Interactive Menu System**: Multi-level navigation with visual feedback
 - **Real-time Dashboard**: Displaying multiple sensor feeds simultaneously
-- **Custom Input Handler**: Responsive button debouncing and edge detection
 
 **Design Philosophy:**
 - Maximize functionality within limited display space
 - Optimize memory usage (SRAM < 2KB per UI element)
-- Fast refresh rates (60+ FPS on LCD)
 - Intuitive navigation patterns
 
 **Tech**: Arduino | Custom Graphics Library | Button Matrix Input
 
-**Status**: ✅ Complete | 📚 Well-documented
+**Status**: ✅ Complete
 
 ---
 
@@ -149,7 +145,7 @@ Active Projects:    3
 Archived:           15
 Languages:          C++ | Python | JavaScript
 Hardware Used:      20+ sensor types
-Success Rate:       82% (completed & functional)
+Success Rate:       72% (completed & functional)
 ```
 
 ---
@@ -217,7 +213,7 @@ I don't believe in perfect theoretical solutions — I believe in:
 
 ## 🏆 Achievements & Milestones
 
-- ✨ Built 15+ functional embedded systems
+- ✨ Built 8+ functional embedded systems
 - 🎓 Deep expertise in I2C, SPI, UART protocols
 - 📦 Created reusable libraries for common modules
 - 🔧 Debugged complex multi-module integrations
@@ -238,9 +234,9 @@ Interrupt Handling ████████░░ 80%
 ### Hardware Integration
 ```
 Sensor Integration  ██████████ 95%
-Motor Control      █████████░ 90%
-Power Management   ████████░░ 80%
-Wireless Modules   █████████░ 85%
+Motor Control       █████████░ 90%
+Power Management    ████████░░ 80%
+Wireless Modules    █████████░ 85%
 ```
 
 ### Problem Solving
