@@ -20,9 +20,9 @@
 </p>
 
 <p align="center">
-  <a href="https://GANTI-DENGAN-URL-PORTOFOLIO"><b>Portofolio</b></a> ·
-  <a href="https://www.linkedin.com/in/GANTI-USERNAME"><b>LinkedIn</b></a> ·
-  <a href="mailto:arrxz.dev@gmail.com"><b>Email</b></a>
+  <a href="https://arrxz.github.io/nano-portofolio/index.html"><b>Portofolio</b></a> ·
+  <a href="https://www.linkedin.com/in/agna-aryaputra-rahman-a73008377/"><b>LinkedIn</b></a> ·
+  <a href="mailto:agnaaryp@gmail.com"><b>Email</b></a>
 </p>
 
 ---
@@ -55,9 +55,9 @@ Gerak dan interaksi: GSAP, Lenis, Three.js.
 
 | Proyek | Ringkasan | Stack | Tautan |
 | --- | --- | --- | --- |
-| **Portofolio pribadi** | Satu halaman dengan tata letak editorial, lanyard 3D berfisika, dan navigasi radial. | Three.js, GSAP, Lenis, Tailwind CSS | [Kunjungi](https://GANTI-DENGAN-URL-PORTOFOLIO) |
-| **Toko online audiophile** | Antarmuka katalog, filter, dan detail produk untuk IEM, DAC, dan aksesori audio. | Tailwind CSS, GSAP, Vite | Dalam pengerjaan |
-| **Plotter pena DIY** | Braket motor NEMA 17 dan mekanisme pen-lift servo, dirancang lewat kode dan dicetak 3D. | NEMA 17, servo, 3D printing | [Repositori](https://github.com/arrxz/GANTI-NAMA-REPO) |
+| **Portofolio pribadi** | Satu halaman dengan tata letak editorial, lanyard 3D berfisika, dan navigasi radial. | Three.js, GSAP, Lenis, Tailwind CSS | [Kunjungi](https://arrxz.github.io/nano-portofolio/index.html) |
+| **Toko online audiophile** | Antarmuka katalog, filter, dan detail produk untuk IEM, DAC, dan aksesori audio. | Tailwind CSS, GSAP, Vite | [Kunjungi](https://arrxz.github.io/aupiio/index.html) |
+| **Plotter pena DIY** | Braket motor NEMA 17 dan mekanisme pen-lift servo, dirancang lewat kode dan dicetak 3D. | NEMA 17, servo, 3D printing |
 
 ## Prinsip kerja
 
